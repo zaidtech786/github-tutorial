@@ -2,7 +2,11 @@ import React from 'react'
 
 const Three = () => {
   return (
-    <div>Three</div>
+    <div>Three updated 
+
+      <button> Submit</button>
+    </div>
+
   )
 }
 
