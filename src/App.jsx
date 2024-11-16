@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <>
-       <div>zaid siddiqui updated</div>
+       <div>zaid siddiqui updated by master</div>
     </>
   )
 }

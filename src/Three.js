@@ -1,10 +1,13 @@
 import React from 'react'
 
 const Three = () => {
+  const handleSubmit = () => {
+     console.log("hello updated by master")
+  }
   return (
     <div>Three updated by master updated 
 
-      <button> Submit</button>
+      <button onClick={handleSubmit}> Submit</button>
     </div>
 
   )
