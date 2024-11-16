@@ -2,7 +2,7 @@ import React from 'react'
 
 const one = () => {
   return (
-    <div>one</div>
+    <div>one updated by masster</div>
   )
 }
 
